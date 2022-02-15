@@ -2,8 +2,13 @@
 content_type: resource
 description: This file is a student's work on stellarators including what stellarators
   are, where did they come from, how do they work, and why should we care about them?
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-012-seminar-fusion-and-plasma-physics-spring-2006/8d02bab30e79d7f753fdab6bc0876a10_stellarators.pdf
+file: /media/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/8d02bab30e79d7f753fdab6bc0876a10_stellarators.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: stellarators.pdf
 uid: 8d02bab3-0e79-d7f7-53fd-ab6bc0876a10
