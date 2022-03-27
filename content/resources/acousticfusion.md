@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 907f93ca-b2dc-c0b1-713c-6d318749dc1a
 resourcetype: Document
 title: acousticfusion.pdf
 uid: fbb33f96-cfbd-3f1b-3fa7-7257a4f19ed4

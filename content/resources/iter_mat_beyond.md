@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 907f93ca-b2dc-c0b1-713c-6d318749dc1a
 resourcetype: Document
 title: iter_mat_beyond.pdf
 uid: 2d868277-1982-9c22-4fcb-2c26b98a39a1

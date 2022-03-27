@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 907f93ca-b2dc-c0b1-713c-6d318749dc1a
 resourcetype: Document
 title: helium3_fusion.pdf
 uid: e2e8eb87-6c7e-c0df-f934-149b83f8c3fa

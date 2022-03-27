@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 907f93ca-b2dc-c0b1-713c-6d318749dc1a
 resourcetype: Document
 title: ignit_con_plasma.pdf
 uid: 23c5af2e-b40d-cf43-2eda-90062884f299

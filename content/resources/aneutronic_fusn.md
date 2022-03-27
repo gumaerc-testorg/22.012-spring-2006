@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9b2b2ff-a450-da4b-95ff-158cf532ae2f
 resourcetype: Document
 title: aneutronic_fusn.pdf
 uid: ffe694ad-a666-5d36-321c-46de97c62888

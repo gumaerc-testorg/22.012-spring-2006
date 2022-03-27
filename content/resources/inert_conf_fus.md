@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 907f93ca-b2dc-c0b1-713c-6d318749dc1a
 resourcetype: Document
 title: inert_conf_fus.pdf
 uid: de2da60d-1db7-bd7d-8ff8-6e7cdf576a08

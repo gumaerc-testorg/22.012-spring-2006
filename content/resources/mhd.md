@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9b2b2ff-a450-da4b-95ff-158cf532ae2f
 resourcetype: Document
 title: mhd.pdf
 uid: a6654dba-81f3-d5a2-90e1-0a659e76740c

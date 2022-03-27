@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9b2b2ff-a450-da4b-95ff-158cf532ae2f
 resourcetype: Document
 title: fus_react_parker.pdf
 uid: 3ab34294-ee56-8ce8-9074-8df998c83f0e
