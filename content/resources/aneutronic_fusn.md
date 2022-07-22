@@ -10,6 +10,7 @@ file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/ffe694ada666
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: ffe694ad-a666-5d36-321c-46de97c62888
 ---
 This file includes the following topics:
 D-T fusion, energetics of fusion, tunneling fusion cross section and reactivity, reactivity for DT fuel, reactivity for proton-Boron fuel, comparison reactivities, power density comparison, ITER comparison for reference, requirements for aneutronic fusion, field reversed configuration (FRC), and FRC formation.
-

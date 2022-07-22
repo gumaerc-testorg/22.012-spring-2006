@@ -7,6 +7,7 @@ file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/2d8682771982
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: iter_mat_beyond.pdf
 uid: 2d868277-1982-9c22-4fcb-2c26b98a39a1
 ---
 This is a student's work on materials in ITER including the topics on vessel: materials for containing plasma, other random materials, and progress in materials.
-

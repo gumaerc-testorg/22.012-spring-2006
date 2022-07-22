@@ -7,6 +7,7 @@ file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/de2da60d1db7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: inert_conf_fus.pdf
 uid: de2da60d-1db7-bd7d-8ff8-6e7cdf576a08
 ---
 This file is a student's work on inertial confinement fusion explaining magnetic confinement, inertial confinement, detailed view of target, fusion ignition steps, national ignition facility, and inertial electrostatic confinement.
-
