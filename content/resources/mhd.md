@@ -8,6 +8,7 @@ description: 'This file includes the following topics:
 
   the unsolved MHD problems, and the future.'
 file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/a6654dba81f3d5a290e10a659e76740c_mhd.pdf
+file_size: 755672
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
