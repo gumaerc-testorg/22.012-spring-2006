@@ -5,6 +5,7 @@ description: 'This file includes the following topics:
   History of energy consumption, consequences of burning fossil fuels, fission energy,
   fusion energy, fusion funding, and ITER.'
 file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/4597e82c1987f827904a3363362ee800_why_fusion_d.pdf
+file_size: 57535
 file_type: application/pdf
 learning_resource_types:
 - Assignments
