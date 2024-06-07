@@ -9,6 +9,7 @@ description: 'This file includes the following topics:
   fusion energy requirements, forces of fields on plasma, Tokamak coils, and the energy
   breakeven.'
 file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/3ab34294ee568ce890748df998c83f0e_fus_react_parker.pdf
+file_size: 1118690
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

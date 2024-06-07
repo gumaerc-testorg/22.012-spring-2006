@@ -7,6 +7,7 @@ description: 'This file includes the following topics:
   power density comparison, ITER comparison for reference, requirements for aneutronic
   fusion, field reversed configuration (FRC), and FRC formation.'
 file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/ffe694ada6665d36321c46de97c62888_aneutronic_fusn.pdf
+file_size: 1125333
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
