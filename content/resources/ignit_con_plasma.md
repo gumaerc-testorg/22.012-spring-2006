@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a student's work on fusion gain factor and the Lawson criterion.
-file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/23c5af2eb40dcf432eda90062884f299_ignit_con_plasma.pdf
+file: /ol-ocw-studio-app/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/23c5af2eb40dcf432eda90062884f299_ignit_con_plasma.pdf
 file_size: 2223477
 file_type: application/pdf
 learning_resource_types:
