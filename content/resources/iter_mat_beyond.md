@@ -3,7 +3,7 @@ content_type: resource
 description: 'This is a student''s work on materials in ITER including the topics
   on vessel: materials for containing plasma, other random materials, and progress
   in materials.'
-file: /ol-ocw-studio-app/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/2d86827719829c224fcb2c26b98a39a1_iter_mat_beyond.pdf
+file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/2d86827719829c224fcb2c26b98a39a1_iter_mat_beyond.pdf
 file_size: 280069
 file_type: application/pdf
 learning_resource_types:
