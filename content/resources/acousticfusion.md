@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a student's work on cavitation process, and sonoluminescence,
   experiment and its results.
-file: /ol-ocw-studio-app/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/fbb33f96cfbd3f1b3fa77257a4f19ed4_acousticfusion.pdf
+file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/fbb33f96cfbd3f1b3fa77257a4f19ed4_acousticfusion.pdf
 file_size: 618495
 file_type: application/pdf
 learning_resource_types:
