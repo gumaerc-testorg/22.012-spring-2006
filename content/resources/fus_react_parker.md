@@ -8,7 +8,7 @@ description: 'This file includes the following topics:
   why aren''t fusion reactors build, the fusion process, fusion power generation,
   fusion energy requirements, forces of fields on plasma, Tokamak coils, and the energy
   breakeven.'
-file: /courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/3ab34294ee568ce890748df998c83f0e_fus_react_parker.pdf
+file: /ol-ocw-studio-app/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/3ab34294ee568ce890748df998c83f0e_fus_react_parker.pdf
 file_size: 1118690
 file_type: application/pdf
 learning_resource_types:
